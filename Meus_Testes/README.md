@@ -1,6 +1,6 @@
-# Titutlo
+# Este é meu primeiro README
 
-## Subtitulo
+## Projeto de aprendizagem do Python, com curso da DSA
 
 Esse é meu primeiro README
 
