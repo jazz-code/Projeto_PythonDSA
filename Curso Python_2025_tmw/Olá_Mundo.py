@@ -1,3 +1,9 @@
 #%%
-print('Olá, Mundo!')
+
+print("Olá, Mundo!")
 # %%
+
+def helper():
+    print("Função Auxiliar")
+# %%
+
